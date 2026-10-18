@@ -7,5 +7,13 @@
     "aprovado": true,
     "publicado": true,
     "media_id": "18088688093690398"
+  },
+  {
+    "data": "2026-10-19",
+    "tema": "Antes de aprovar a amostra, confira 3 coisas",
+    "pasta": "posts/2026-10-19-antes-de-aprovar-amostra",
+    "tipo": "carrossel",
+    "aprovado": true,
+    "publicado": false
   }
 ]
