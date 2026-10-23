@@ -29,8 +29,9 @@
     "pasta": "posts/2026-10-23-bastidores-fuso",
     "tema": "Bastidores: como funciona uma importação com 11 horas de fuso",
     "palavra_chave": "BASTIDORES",
-    "aprovado": false,
-    "publicado": false
+    "aprovado": true,
+    "publicado": true,
+    "media_id": "18004232706051886"
   },
   {
     "data": "2026-10-24",
