@@ -1,0 +1,92 @@
+[
+  {
+    "ordem": 1,
+    "pasta": "posts/eagletrade/01-braco-de-importacao",
+    "perfil": "@eagletrade.br",
+    "tema": "Você vende. A gente cuida da sua importação.",
+    "palavra_chave": "IMPORTAR",
+    "aprovado": false,
+    "publicado": false
+  },
+  {
+    "ordem": 2,
+    "pasta": "posts/eagletrade/02-direto-da-fabrica",
+    "perfil": "@eagletrade.br",
+    "tema": "Cada intermediário come um pedaço da sua margem",
+    "palavra_chave": "DIRETO",
+    "aprovado": false,
+    "publicado": false
+  },
+  {
+    "ordem": 3,
+    "pasta": "posts/eagletrade/03-do-pedido-a-entrega",
+    "perfil": "@eagletrade.br",
+    "tema": "Do pedido à porta da sua empresa",
+    "palavra_chave": "ENTREGA",
+    "aprovado": false,
+    "publicado": false
+  },
+  {
+    "ordem": 4,
+    "pasta": "posts/eagletrade/04-metodo-voe",
+    "perfil": "@eagletrade.br",
+    "tema": "Método V.O.E: Validar, Operar, Escalar",
+    "palavra_chave": "VOE",
+    "aprovado": false,
+    "publicado": false
+  },
+  {
+    "ordem": 5,
+    "pasta": "posts/eagletrade/05-inspecao-na-fabrica",
+    "perfil": "@eagletrade.br",
+    "tema": "Depois que embarca, não dá mais para corrigir",
+    "palavra_chave": "LOTE",
+    "aprovado": false,
+    "publicado": false
+  },
+  {
+    "ordem": 6,
+    "pasta": "posts/eagletrade/06-acompanhamento",
+    "perfil": "@eagletrade.br",
+    "tema": "Onde está a minha mercadoria?",
+    "palavra_chave": "STATUS",
+    "aprovado": false,
+    "publicado": false
+  },
+  {
+    "ordem": 7,
+    "pasta": "posts/eagletrade/07-para-quem-e",
+    "perfil": "@eagletrade.br",
+    "tema": "Sua empresa já pode ter um braço de importação?",
+    "palavra_chave": "PERFIL",
+    "aprovado": false,
+    "publicado": false
+  },
+  {
+    "ordem": 8,
+    "pasta": "posts/eagletrade/08-conteiner-compartilhado",
+    "perfil": "@eagletrade.br",
+    "tema": "Não precisa de um contêiner inteiro para importar",
+    "palavra_chave": "CONTEINER",
+    "aprovado": false,
+    "publicado": false
+  },
+  {
+    "ordem": 9,
+    "pasta": "posts/eagletrade/09-alem-da-china",
+    "perfil": "@eagletrade.br",
+    "tema": "Nem todo produto precisa vir da China",
+    "palavra_chave": "MUNDO",
+    "aprovado": false,
+    "publicado": false
+  },
+  {
+    "ordem": 10,
+    "pasta": "posts/eagletrade/10-sinais",
+    "perfil": "@eagletrade.br",
+    "tema": "3 sinais de que sua empresa precisa de um braço de importação",
+    "palavra_chave": "SINAIS",
+    "aprovado": false,
+    "publicado": false
+  }
+]

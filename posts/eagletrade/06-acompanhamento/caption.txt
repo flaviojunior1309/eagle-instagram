@@ -1,0 +1,12 @@
+Você pagou a importação. Agora tem que ficar correndo atrás para saber onde ela está?
+
+Quem paga uma importação tem que saber em que etapa ela está, sem precisar correr atrás de ninguém.
+
+Como a gente acompanha:
+1. Um código por processo: cada importação recebe uma referência própria, como IMP-009-26.
+2. Etapas claras: você sabe se está em produção, inspeção, trânsito ou desembaraço.
+3. Avisos no caminho: quando algo muda, você fica sabendo antes de virar problema.
+
+👉 Comente STATUS ou chame no WhatsApp (13) 98824-7244.
+
+Siga @eagletrade.br
