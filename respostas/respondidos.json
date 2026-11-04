@@ -38,5 +38,25 @@
     "resposta": "Valeu demais pelo carinho! ❤️",
     "reply_id": "17978434958930701",
     "data": "2026-11-03"
+  },
+  "18113791726892104": {
+    "acao": "reply_to_comment",
+    "tipo": "elogio",
+    "username": null,
+    "media_permalink": "https://www.instagram.com/reel/DfUog3xxAHx/",
+    "comentario": "🙌",
+    "resposta": "Valeu demais! Constância é tudo 🙌",
+    "reply_id": "18075954773569149",
+    "data": "2026-11-04"
+  },
+  "17903941926672833": {
+    "acao": "nenhuma",
+    "tipo": "ja_respondido_pelo_flavio",
+    "username": null,
+    "media_permalink": "https://www.instagram.com/reel/DfSfB6LyksD/",
+    "comentario": "Está passando pela puberdade kk",
+    "resposta": null,
+    "reply_id": "18193253773361751",
+    "data": "2026-11-04"
   }
 }
