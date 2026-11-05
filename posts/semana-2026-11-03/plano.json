@@ -21,8 +21,9 @@
     "pasta": "posts/2026-11-05-o-que-pergunto-primeiro",
     "tema": "O que eu pergunto primeiro quando um empresário me procura",
     "palavra_chave": "CONVERSA",
-    "aprovado": false,
-    "publicado": false
+    "aprovado": true,
+    "publicado": true,
+    "media_id": "17926975161439070"
   },
   {
     "data": "2026-11-06",
