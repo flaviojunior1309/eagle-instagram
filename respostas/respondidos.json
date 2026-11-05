@@ -58,5 +58,15 @@
     "resposta": null,
     "reply_id": "18193253773361751",
     "data": "2026-11-04"
+  },
+  "18358768012174466": {
+    "acao": "reply_to_comment",
+    "tipo": "elogio",
+    "username": null,
+    "media_permalink": "https://www.instagram.com/reel/DfXhX5jzhl_/",
+    "comentario": "🙏🏾",
+    "resposta": "Amém! Obrigado pelo carinho 🙏",
+    "reply_id": "17932864947294706",
+    "data": "2026-11-05"
   }
 }
