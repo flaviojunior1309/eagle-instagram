@@ -30,15 +30,16 @@
     "pasta": "posts/2026-11-06-distribuidor-ou-direto",
     "tema": "Distribuidor ou importação direta: 3 diferenças além do preço",
     "palavra_chave": "DISTRIBUIDOR",
-    "aprovado": false,
-    "publicado": false
+    "aprovado": true,
+    "publicado": true,
+    "media_id": "18129840016854954"
   },
   {
     "data": "2026-11-07",
     "pasta": "posts/2026-11-07-terceirizar-e-perder-controle",
     "tema": "Terceirizar a importação é perder o controle? Mito x verdade",
     "palavra_chave": "CONTROLE",
-    "aprovado": false,
+    "aprovado": true,
     "publicado": false
   },
   {
