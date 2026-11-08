@@ -88,5 +88,14 @@
     "palavra_chave": "SINAIS",
     "aprovado": false,
     "publicado": false
+  },
+  {
+    "ordem": 11,
+    "pasta": "posts/eagletrade/11-custo-final",
+    "perfil": "@eagletrade.br",
+    "tema": "O preço da fábrica não é o custo do seu produto",
+    "palavra_chave": "CUSTO",
+    "aprovado": false,
+    "publicado": false
   }
 ]
