@@ -48,8 +48,9 @@
     "pasta": "posts/2026-11-08-importacao-cresceu-estrutura",
     "tema": "Sua importação cresceu. A estrutura cresceu junto?",
     "palavra_chave": "ESTRUTURA",
-    "aprovado": false,
-    "publicado": false
+    "aprovado": true,
+    "publicado": true,
+    "media_id": "17990922183112161"
   },
   {
     "data": "2026-11-09",
