@@ -46,8 +46,9 @@
     "pasta": "posts/2026-11-15-pagar-o-sinal-e-o-comeco",
     "tema": "Pagar o sinal é o começo da importação, não o fim",
     "palavra_chave": "SINAL",
-    "aprovado": false,
-    "publicado": false
+    "aprovado": true,
+    "publicado": true,
+    "media_id": "18116777615148650"
   },
   {
     "data": "2026-11-16",
